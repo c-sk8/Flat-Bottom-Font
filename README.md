@@ -4,7 +4,7 @@ A neat handwriting font. To see what it looks like click on the [Sample.pdf][1] 
 
 Some letters have a flat bottom like when you write above a ruler.
 
-This font was first created in March 2018 using an application called Glyphs Mini.
+This font was made using an application called *Glyphs Mini*.
 
 ## Future Improvements
 
