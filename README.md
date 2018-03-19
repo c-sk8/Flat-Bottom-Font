@@ -1,5 +1,10 @@
-# Flat-Bottom-Font
+# Flat Bottom Font
 
-This is an open source font that has been created with an application called Glyphs Mini. It is the first font that I have created, but I am very pleased with the result. This font was inspired by a friend at school who wrote an entire essay using a ruler to keep each letter exactly on the line. I started with the letter "O" which has a flat bottom, hence the name.
+A neat handwriting font. Some letters have a flat bottom like when you write above a ruler. This is an open source font.
 
+This font was first created in March 2018 using an application called Glyphs Mini on a Apple Mac computer.
 
+## Future Improvement
+
+- Create a thicker "Bold" version of the font.
+- Create a thinner "Light" version of the font.
